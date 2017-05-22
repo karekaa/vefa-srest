@@ -38,7 +38,7 @@ The source code may be compiled and packaged using the following command:
     cd vefa-srest
     
     # Checks out an officially tagged release, replace version number with latest and greatest
-    git checkout ringo-1.1.28 -b 1.1.28 
+    git checkout ringo-1.1.29 -b 1.1.29 
     
     # Builds the software
     mvn -Dmaven.test.skip clean verify  
